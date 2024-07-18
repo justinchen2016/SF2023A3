@@ -4,7 +4,7 @@
   - SecurityFoscusOnline2023  之 A3_Python程式與資安應用入門
 
 
-## SecurityFoscusOnline2023課程宗旨:從CTF實戰學習資訊安全測試
+## 課程宗旨:從CTF實戰學習資訊安全測試
 - 讓全台灣的學生都有機會快速學到底下基本技術
   - 一點點的資安與CTF技術
   - 一點點的LINUX
@@ -15,10 +15,10 @@
   - A3_Python程式與資安應用入門 ~ 本次上課內容
 
 # 上課所使用的平台:
-- CTF平台解題(平常沒開放~只有上課期間才會開放):[【HappyPythonDay CTF】]( http://120.114.62.209/)
+- CTF平台解題(平常沒開放~只有上課期間才會開放):[【HappyPythonDay CTF】]( http://140.110.112.224/)
 - 上課簽到簿:請每日上課不要遲到
 - 問卷調查:上完課後再填寫!一定要填寫,不然沒有證書
-  - [回饋問卷](https://reurl.cc/01aEo9)
+  - [回饋問卷](https://forms.gle/DfqdaXkWxfQ4F2QN7)
   - 問卷調查須正確填寫CTF註冊的使用者ID 以供驗證解題數作為通過課程考核的依據
 
 ### CTF 入門: 
